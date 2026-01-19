@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japan</title>
+<body>
+  <h1>Japan</h1>
+    <h2>The land of the rising sun, the kimonos and Mai</h2>
+<h3>Capital:Tokyo</h3>
+    <h3>Population:123.103.479 </h3>
+        <h3>Official language:Japanese</h3>
+            <img src="https://www.advantour.com/img/japan/images/index.jpg" alt="Paisaje" width="1000" Height="500">
+</body>
+<h1>Major cities</h1>
+<ul></ul>
+<li>Tokyo</li>
+<li>Yokohama</li>
+<li>Osaka</li>
+<li>Nagoya</li>
+<li>Sapporo</li>
+<ul></ul>
+<h1>Economic sector (listed by the percentage)</h1>
+<ol>1. Service sector (70 % of GDP)</ol>
+<ol>2. Industrial sector (27% of GPD)</ol>
+    <ol>3. Agricultural sector (1 % of GPD)</ol>
+    <video controls><source src="media\Japan 4K - A Stunning Visual Tour of Cherry Blossom Season and More - Calming Music.mp4" type="video/mp4"></video>
+<table border="1">
+    <h1>Tourism</h1>
+    <thead>
+        <tr>
+            <th>City</th>
+            <td colspan="3">Main attraction</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tokyo</td> 
+            <th>Tokyo Skytree</th>
+            <th>Senso-ji Temple</th>
+        </tr>
+        <tr>
+            <td>Kyoto</td>
+            <th> Kinkakuji</th>
+            <th>Fushimi Inari-taisha</th>
+        </tr>
+        <tr>
+            <td>Osaka</td>
+        </tr>
+    </tbody>
+</table>
+<a href="index.html">Capital city</a>
+    </html>
